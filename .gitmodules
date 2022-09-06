@@ -1,0 +1,3 @@
+[submodule "001-schizophrenia-diagnosis/EEGNeX"]
+	path = 001-schizophrenia-diagnosis/EEGNeX
+	url = https://github.com/chenxiachan/EEGNeX
