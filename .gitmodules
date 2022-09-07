@@ -1,3 +1,6 @@
 [submodule "001-schizophrenia-diagnosis/EEGNeX"]
 	path = 001-schizophrenia-diagnosis/EEGNeX
 	url = https://github.com/chenxiachan/EEGNeX
+[submodule "001-schizophrenia-diagnosis/schizophrenia-diagnosis-eeg-signals"]
+	path = 001-schizophrenia-diagnosis/schizophrenia-diagnosis-eeg-signals
+	url = https://github.com/i1idan/schizophrenia-diagnosis-eeg-signals
